@@ -257,6 +257,7 @@ int main(){
 ```
 # Output:
 <img width="472" height="244" alt="image" src="https://github.com/user-attachments/assets/f4ff4428-5fbf-4efd-8812-5f6e81f90267" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
